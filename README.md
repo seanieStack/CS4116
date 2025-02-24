@@ -6,7 +6,7 @@ This SQL statement creates a `users` table with the following columns:
 - `password` (Hashed Password Storage)
 - `created_at` (Timestamp of Registration)
 
-## 📌 SQL Statement:
+## SQL Statement:
 ```sql
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
